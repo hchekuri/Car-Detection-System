@@ -1,1 +1,4 @@
 # Car-Detection-System
+- Now-a-days, technology is reaching heights with the latest inventions. Smart Vehicles has becoming a trend where most of the people are being attracted to reduce their effort.Smart cars are getting more attention in towards market. The main technology involved in Smart Cars is Vehicle Detection system.
+- In unites states, the most used Vehicle is Car.So, we did a project on Car Detection system to understand how these detection system works.
+- In this project, we performed a Histogram of oriented gradients(HOG) feature extraction on a labeled training set if images and train a classifier using Support Vector Machine.We used a labeled data for Vehicle and non-Vehicle examples to train our classifier. These images are taken from the GTI vehicle image database.As a part of testing sample, we are running a software pipeline on a video stream
